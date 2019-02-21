@@ -11,3 +11,6 @@ AutoAccept is made into an executable using py2exe. The specific script I use ca
 
 ## TODO
 * Add other matchmaking services (ESEA, FaceIT, etc.)
+* Add more colors.
+## 2019 Update
+Hey guys! I added the colors for the current version, but will try to improve when I have time.
